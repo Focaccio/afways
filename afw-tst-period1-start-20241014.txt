@@ -1,0 +1,3 @@
+20241114-mon===build up infra hw for nutanix node 1 and nxos vpc
+20241114-mon===build up infra sw carbon copy cloner
+20241114-mon===build up infra sw pdfe express, sublime text   

@@ -1,0 +1,23 @@
+
+
+areafnetworks AFN
+areafx tst x development 
+
+Agenda and Achievements in period 1
+
+###############################################################################################
+Achievments:
++2x nxos nexus 9048
++1x elitedesk 800 g4 / 4 port nic / tbd 64G / nvme cvm / datajbod ? / root ?
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+Agenda:
++x tst development
++x / 
++x / 
+
+
+
+
+

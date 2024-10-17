@@ -7,10 +7,14 @@ Achievments:
 +bdaq   202410dd   open pp spend line
 +bdaq   20241017   ledger flex 1 orange
 
+
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Agenda:
+"what people want, but cant find a way to get" - provide the GET path for income generation
+
 +bdaq   aquisition business development
-+bdaq   
++bdaq   time timer 120 min for $500/500KSAT sessions
++bdaq   Cisco8300 + SL for mobile internet
 
 +bdact   acta business development
 +bdact   niches business plans

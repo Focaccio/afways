@@ -4,14 +4,18 @@ Agenda and Achievements in period 1
 
 Achievments:
 +Goals list create
-+
++bdaq   202410dd   open pp spend line
++bdaq   20241017   ledger flex 1 orange
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Agenda:
-+bd business development
-+bd / niches business plans
-+bd / niches scoped work objects / define objects
-+bd / niche / personal training on ledger flex
++bdaq   aquisition business development
++bdaq   
+
++bdact   acta business development
++bdact   niches business plans
++bdact   niches scoped work objects / define objects
++bdact   develop personal training sylyybus for on-site ledger flex training services
 
 +Networking - dt jd meeting
 +networking - old contacts

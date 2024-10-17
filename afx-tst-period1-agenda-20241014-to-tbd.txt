@@ -13,9 +13,13 @@ Achievments:
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Agenda:
-+x tst development
-+x / 
-+x / 
++x tst aq development
++xaq   
++x tst acta development
++xact   tacacs+
++xact   oxide/rancid on container
++xact   container/kubernetes
++xact   aws
 
 
 

@@ -15,11 +15,15 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Agenda:
 +x tst aq development
 +xaq   
+
 +x tst acta development
-+xact   tacacs+
-+xact   oxide/rancid on container
++xact   tacacs+ for demo
++xact   oxide/rancid on container for demo
 +xact   container/kubernetes
-+xact   aws
++xact   aws S3 from Synology
++xact   devnet automation
++xact   split tst network
+
 
 
 

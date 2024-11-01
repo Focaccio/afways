@@ -9,17 +9,22 @@ Achievments:
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-Agenda:
+AGENDA  :
 "what people want, but cant find a way to get" - provide the GET path for income generation
 
 +bdaq   aquisition business development
 +bdaq   time timer 120 min for $500/500KSAT sessions
 +bdaq   Cisco8300 + SL for mobile internet
++bdaq   S3 account for backups
++bdaq   remote access rack for lab time
++
 
 +bdact   acta business development
 +bdact   niches business plans
 +bdact   niches scoped work objects / define objects
 +bdact   develop personal training sylyybus for on-site ledger flex training services
++bdact   develop personal training systemn for on-site S3 files back-up w synology training
++
 
 +Networking - dt jd meeting
 +networking - old contacts

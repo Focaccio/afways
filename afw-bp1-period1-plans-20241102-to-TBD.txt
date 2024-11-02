@@ -8,7 +8,8 @@ To Do /// Business Plan Activities
 +Prep Resume
 +Prep DEMOS
 +Prep Menu of Services
-
++get 2x ios-xe devices
++Learn AWS kubernetes -in demand needs gap?
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

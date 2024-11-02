@@ -1,12 +1,23 @@
 bp1 1
 period 1 business plans
 
-Plan email / and phone number
-+Prep resume and contact action pack proposal submissions
-+email on outlook
-+prep demo work
-contract@focaccio.net
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+To Do /// Business Plan Activities
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
++Prep Resume
++Prep DEMOS
++Prep Menu of Services
 
 
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Business Plan Completed Activities
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>>20241101 DONE
++Business phone number
+619-489-5147
+>>>20241101 DONE
++email on outlook 
+job@areaf.net
 

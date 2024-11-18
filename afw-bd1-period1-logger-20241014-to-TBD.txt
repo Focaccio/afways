@@ -10,3 +10,5 @@ bd1 - business development 1
 20241105   Posted soft launch with job@areaf.net and booking page
 20241105   Resume.txt on github
 
+20241118   Message checking on linkedin / reachout 2x
+

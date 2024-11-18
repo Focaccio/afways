@@ -17,14 +17,16 @@ AGENDA  :
 +bdaq   Cisco8300 + SL for mobile internet
 +bdaq   S3 account for backups
 +bdaq   remote access rack for lab time
-+
++bdaq   ***20241118***   additional 3 negate SG1100 to demo VPN tunneling for secure remote access work
+         into any network.
 
 +bdact   acta business development
 +bdact   niches business plans
 +bdact   niches scoped work objects / define objects
 +bdact   develop personal training sylyybus for on-site ledger flex training services
 +bdact   develop personal training systemn for on-site S3 files back-up w synology training
-+
++bdact   ***20241117*** concept to demo remote phys site VPN install to self-enable remote work on ?X co networks
+         //demo diagram and demo actuality on datacenter areaf network
 
 +Networking - dt jd meeting
 +networking - old contacts

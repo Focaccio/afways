@@ -2,16 +2,22 @@ areafnetworks AFN
 
 Agenda and Achievements in period 1
 
-Achievments:
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ACHIEVEMENTS
 +Goals list create
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+===PERIOD-1===
 +bdaq   202410dd   open pp spend line
 +bdaq   20241017   ledger flex 1 orange
++bdaq   20241100   netgate sg-1100
++bdaq   20241100   2x Nexus 3048 upgraded to 9.2(4) for vPC feature with L3 subinterface POs
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-AGENDA  :
+AGENDA
 "what people want, but cant find a way to get" - provide the GET path for income generation
-
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+===PERIOD-1===
 +bdaq   aquisition business development
 +bdaq   time timer 120 min for $500/500KSAT sessions
 +bdaq   Cisco8300 + SL for mobile internet
@@ -19,6 +25,9 @@ AGENDA  :
 +bdaq   remote access rack for lab time
 +bdaq   ***20241118***   additional 3 negate SG1100 to demo VPN tunneling for secure remote access work
          into any network.
++bdaq   IOS-XE devices for 
+
+
 
 +bdact   acta business development
 +bdact   niches business plans
@@ -27,6 +36,7 @@ AGENDA  :
 +bdact   develop personal training systemn for on-site S3 files back-up w synology training
 +bdact   ***20241117*** concept to demo remote phys site VPN install to self-enable remote work on ?X co networks
          //demo diagram and demo actuality on datacenter areaf network
+
 
 +Networking - dt jd meeting
 +networking - old contacts

@@ -4,31 +4,37 @@ Agenda and Achievements in period 1
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ACHIEVEMENTS
-+Goals list create
+From Agendas
++todo // _completed
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ===PERIOD-1===
-+bdaq   202410dd   open pp spend line
-+bdaq   20241017   ledger flex 1 orange
-+bdaq   20241100   netgate sg-1100
-+bdaq   20241100   2x Nexus 3048 upgraded to 9.2(4) for vPC feature with L3 subinterface POs
+_bdaqu   202410dd   open pp spend line
+_bdaqu   20241017   ledger flex 1 orange
+_bdaqu   20241100   netgate sg-1100
+_bdaqu   20241100   2x Nexus 3048 upgraded to 9.2(4) for vPC feature with L3 subinterface POs
+_bdnet   20241100   linkedin messaging reach-outs
+_bdaqu   20241100   create and fund areaf.net email with job@areaf.net
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 AGENDA
 "what people want, but cant find a way to get" - provide the GET path for income generation
+aq   aquisition // act   todo // net   networking presence
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ===PERIOD-1===
-+bdaq   aquisition business development
-+bdaq   time timer 120 min for $500/500KSAT sessions
-+bdaq   Cisco8300 + SL for mobile internet
-+bdaq   S3 account for backups
-+bdaq   remote access rack for lab time
-+bdaq   ***20241118***   additional 3 negate SG1100 to demo VPN tunneling for secure remote access work
-         into any network.
-+bdaq   IOS-XE devices for 
++bdaqu   aquisition business development
++bdaqu   time timer 120 min for $500/500KSAT sessions
++bdaqu   Cisco8300 + SL for mobile internet
++bdaqu   S3 account for backups
++bdaqu   remote access rack for lab time
++bdaqu   ***20241118***   additional 3 negate SG1100 to demo VPN tunneling for 
+   secure remote access work into client networks // harden and test
++bdaqu   IOS-XE devices for
++bdaqu   create and fund areaf.net email $ 
++bdaqu   pfsense for AWS // buildout AWS SG to Home SG tunnel for Demo purposes
 
 
-
+...............................................................................................
 +bdact   acta business development
 +bdact   niches business plans
 +bdact   niches scoped work objects / define objects
@@ -37,12 +43,12 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 +bdact   ***20241117*** concept to demo remote phys site VPN install to self-enable remote work on ?X co networks
          //demo diagram and demo actuality on datacenter areaf network
 
+...............................................................................................
++bdnet   Networking - dt jd meeting
++bdnet   networking - old contacts
++bdnet   networking - local meetings
++bdnet   linkedin messagigd reachouts
 
-+Networking - dt jd meeting
-+networking - old contacts
-+networking - local meetings
-
-+tech - create and fund areaf.net email $ 
 +
 
 

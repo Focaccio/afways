@@ -1,6 +1,6 @@
 areafnetworks AFN 
 
-Agenda and Achievements in period 1
+Agenda and Achievements ===Multi-period===
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ACHIEVEMENTS
@@ -13,6 +13,7 @@ _bdaqu   20241017   ledger flex 1 orange
 _bdaqu   20241100   netgate sg-1100
 _bdaqu   20241100   2x Nexus 3048 upgraded to 9.2(4) for vPC feature with L3 subinterface POs
 _bdnet   20241100   linkedin messaging reach-outs
+_bdnet   20241100   twitter/x soft-launch open for 1099-NEC scoped work
 _bdaqu   20241100   create and fund areaf.net email with job@areaf.net
 
 
@@ -27,9 +28,9 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 +bdaqu   Cisco8300 + SL for mobile internet
 +bdaqu   S3 account for backups
 +bdaqu   remote access rack for lab time
-+bdaqu   ***20241118***   additional 3 negate SG1100 to demo VPN tunneling for 
++bdaqu   Additional 3 negate SG1100 to demo VPN tunneling for 
    secure remote access work into client networks // harden and test
-+bdaqu   IOS-XE devices for
++bdaqu   IOS-XE devices ios-xe config development/testing
 +bdaqu   create and fund areaf.net email $ 
 +bdaqu   pfsense for AWS // buildout AWS SG to Home SG tunnel for Demo purposes
 

@@ -20,9 +20,15 @@ _bdaqu   20241100   create and fund areaf.net email with job@areaf.net
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 AGENDA
 "what people want, but cant find a way to get" - provide the GET path for income generation
-aq   aquisition // act   todo // net   networking presence
+aqu   aquisition agenda 
+act   action agenda
+net   networking presence
+vis   vision agenda
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ===PERIOD-1===
++ADD-TO-TOP
++bdaqu   NEW usb3 to consoles for f16 access to multiple simultaneous console serial devices
+   
 +bdaqu   aquisition business development
 +bdaqu   time timer 120 min for $500/500KSAT sessions
 +bdaqu   Cisco8300 + SL for mobile internet
@@ -50,7 +56,10 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 +bdnet   networking - local meetings
 +bdnet   linkedin messagigd reachouts
 
-+
+...............................................................................................
++bdvis   migrate comfort lavel from physical to virtual/cloud networking
++bdvis   migrate into ai centric networking
++bdvis   local on-the-spot / the diff is the presence and trust to logon not the knowledge
 
 
 

@@ -39,6 +39,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 +bdaqu   IOS-XE devices ios-xe config development/testing
 +bdaqu   create and fund areaf.net email $ 
 +bdaqu   pfsense for AWS // buildout AWS SG to Home SG tunnel for Demo purposes
++bdaqu   SNMP / RADIUS / TACACS / 802.1x https://www.ermitacode.com/networkview/
 
 
 ...............................................................................................

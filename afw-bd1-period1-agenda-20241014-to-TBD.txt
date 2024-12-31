@@ -1,5 +1,5 @@
 areafnetworks AFN 
-
+bd business development
 Agenda and Achievements ===Multi-period===
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -7,7 +7,7 @@ ACHIEVEMENTS
 From Agendas
 +todo // _completed
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-===PERIOD-1===
+===PERIOD-1=== Firewall / Switches / VHE host
 _bdaqu   202410dd   open pp spend line
 _bdaqu   20241017   ledger flex 1 orange
 _bdaqu   20241100   netgate sg-1100
@@ -15,6 +15,11 @@ _bdaqu   20241100   2x Nexus 3048 upgraded to 9.2(4) for vPC feature with L3 sub
 _bdnet   20241100   linkedin messaging reach-outs
 _bdnet   20241100   twitter/x soft-launch open for 1099-NEC scoped work
 _bdaqu   20241100   create and fund areaf.net email with job@areaf.net
+
+===PERIOD-2=== Routers
+_bdaqu   20241231   2x IOS-XE (4331) <inbound>
+
+
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$

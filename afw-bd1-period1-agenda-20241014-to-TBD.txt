@@ -15,9 +15,11 @@ AGENDA
 +act   action agenda
 +net   networking presence
 +vis   vision agenda
-<merged for future split>
+<merged PD and VA for future split>
 PD - professional development
 ```pd
+VA - vanguard
+```va
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
@@ -28,6 +30,8 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 +pdcfg   max secure password
 +pdcfg   NSA recommended hardening
 +pdcfg   modular config
+
+
 
 
 ...............................................................................................
@@ -72,6 +76,19 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 +bdvis   migrate comfort lavel from physical to virtual/cloud networking
 +bdvis   migrate into ai centric networking
 +bdvis   local on-the-spot / the diff is the presence and trust to logon not the knowledge
+
+
+...............................................................................................
+...............................................................................................
+```va
+vanguard
++vaman   renew mawa.eth
++vaman    
+
+
+
+
+
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$

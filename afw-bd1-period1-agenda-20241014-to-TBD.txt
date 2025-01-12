@@ -1,39 +1,39 @@
 areafnetworks AFN 
 bd business development
 Agenda and Achievements ===Multi-period===
-
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-ACHIEVEMENTS
-From Agendas
-+todo // _completed
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-===PERIOD-1=== Firewall / Switches / VHE host
-_bdaqu   202410dd   open pp spend line
-_bdaqu   20241017   ledger flex 1 orange
-_bdaqu   20241100   netgate sg-1100
-_bdaqu   20241100   2x Nexus 3048 upgraded to 9.2(4) for vPC feature with L3 subinterface POs
-_bdnet   20241100   linkedin messaging reach-outs
-_bdnet   20241100   twitter/x soft-launch open for 1099-NEC scoped work
-_bdaqu   20241100   create and fund areaf.net email with job@areaf.net
-
-===PERIOD-2=== Routers
-_bdaqu   20241231   2x IOS-XE (4331) <inbound>
-
-
+```agenda
+```achieve 
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+```agenda   
+===PERIOD-1.0 - 1.X===
 AGENDA
 "what people want, but cant find a way to get" - provide the GET path for income generation
-aqu   aquisition agenda 
-act   action agenda
-net   networking presence
-vis   vision agenda
+```bd
++aqu   aquisition agenda 
++act   action agenda
++net   networking presence
++vis   vision agenda
+<merged for future split>
+PD - professional development
+```pd
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-===PERIOD-1===
-+ADD-TO-TOP
-+bdaqu   NEW usb3 to consoles for f16 access to multiple simultaneous console serial devices
-   
+
+
+...............................................................................................
+...............................................................................................
+```pdcfg aka gx
++pdcfg   IKEv2 max secure VPN
++pdcfg   max secure password
++pdcfg   NSA recommended hardening
++pdcfg   modular config
+
+
+...............................................................................................
+...............................................................................................
+```bdacq
++bdaqu   NEW usb3 to consoles for f16 access to multiple simultaneous console serial devices  
 +bdaqu   aquisition business development
 +bdaqu   time timer 120 min for $500/500KSAT sessions
 +bdaqu   Cisco8300 + SL for mobile internet
@@ -41,13 +41,15 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 +bdaqu   remote access rack for lab time
 +bdaqu   Additional 3 negate SG1100 to demo VPN tunneling for 
    secure remote access work into client networks // harden and test
-+bdaqu   IOS-XE devices ios-xe config development/testing
++DONE    bdaqu   IOS-XE devices ios-xe config development/testing
 +bdaqu   create and fund areaf.net email $ 
 +bdaqu   pfsense for AWS // buildout AWS SG to Home SG tunnel for Demo purposes
 +bdaqu   SNMP / RADIUS / TACACS / 802.1x https://www.ermitacode.com/networkview/
 
 
 ...............................................................................................
+...............................................................................................
+```bdact   
 +bdact   acta business development
 +bdact   niches business plans
 +bdact   niches scoped work objects / define objects
@@ -57,17 +59,38 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
          //demo diagram and demo actuality on datacenter areaf network
 
 ...............................................................................................
+...............................................................................................
+```bdnet   
 +bdnet   Networking - dt jd meeting
 +bdnet   networking - old contacts
 +bdnet   networking - local meetings
 +bdnet   linkedin messagigd reachouts
 
 ...............................................................................................
+...............................................................................................
+```bdvis   
 +bdvis   migrate comfort lavel from physical to virtual/cloud networking
 +bdvis   migrate into ai centric networking
 +bdvis   local on-the-spot / the diff is the presence and trust to logon not the knowledge
 
 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+```achieve   
+ACHIEVEMENTS
+From Agendas
++todo // _completed
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+===PERIOD-1.0=== Firewall / Switches / VHE host
+_bdaqu   202410dd   open pp spend line
+_bdaqu   20241017   ledger flex 1 orange
+_bdaqu   20241100   netgate sg-1100
+_bdaqu   20241100   2x Nexus 3048 upgraded to 9.2(4) for vPC feature with L3 subinterface POs
+_bdnet   20241100   linkedin messaging reach-outs
+_bdnet   20241100   twitter/x soft-launch open for 1099-NEC scoped work
+_bdaqu   20241100   create and fund areaf.net email with job@areaf.net
 
+===PERIOD-1.1=== Routers
+_bdaqu   20241231   2x IOS-XE (4331) <inbound>
+_bdaqu   20250111   2x IOS-XE with NIM-ES2-4
 
 

@@ -6,7 +6,9 @@ Agenda and Achievements ===Multi-period===
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-```agenda   
+```agenda  
+===PERIOD-2.0 - 2.X===
+MIGRATION to AREA-N ...
 ===PERIOD-1.0 - 1.X===
 AGENDA
 "what people want, but cant find a way to get" - provide the GET path for income generation

@@ -1,5 +1,7 @@
 bp1 1
 period 1 business plans
+period 2 ...
+period 3 summer 25...capabilities listing -> service composition
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 To Do /// Business Plan Activities

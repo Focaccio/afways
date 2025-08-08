@@ -8,7 +8,7 @@
 ! job@areaf.net
 ! 619-489-5147
 ! Booking 
-https://outlook.office.com/bookwithme/user/107c2b00dd8b4c55a941d8cec3e2f2fd%40areaf.net?anonymous&isanonymous=true
+https://outlook.office.com/book/GoLive@areaf.net/?ismsaljsauthenabled
 !
 !..............................................................................................
 !..............................................................................................
